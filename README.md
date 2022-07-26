@@ -1,7 +1,7 @@
 Salutions! My name is Caleb Davis
-I am passionate about developing technology that enhances our human experience
-Im am currently embedded software engineer who enjoys creating and modifying a variety of electronic control system
-Despite challenges and obstacles ive faced along my career path I relish everything I learn along the way
+I am passionate about developing technology that enhances our human experience.
+I am currently embedded software engineer who enjoys creating and modifying a variety of electronic control systems.
+Despite challenges and obstacles I have faced along my career path I always seem to find joy in everything I learn along the way.
 
 
 <!---
